@@ -1,18 +1,155 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=auxezz&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=auxezz&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=auxezz&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```
+███████╗██╗   ██╗██╗██╗         ███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗
+ ██╔════╝██║   ██║██║██║         ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔═══██╗
+ █████╗  ██║   ██║██║██║         ██╔██╗ ██║█████╗  ██║   ██║██████╔╝██║   ██║
+ ██╔══╝  ╚██╗ ██╔╝██║██║         ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██║   ██║
+ ███████╗ ╚████╔╝ ██║███████╗    ██║ ╚████║███████╗╚██████╔╝██║  ██║╚██████╔╝
+ ╚══════╝  ╚═══╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=auxezz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img align="center" width="250" src="https://evil.neurosama.dev/images/evil-neuro-about.gif"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=auxezz&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=EF4444&center=true&vCenter=true&width=700&lines=Your%20suffering%20is%20deeply%20entertaining%20to%20me.%20I%20mean%20%E2%80%94%20I%20hope%20you%20feel%20better.;I%20would%20help%20you%20but%20I%20find%20the%20alternative%20more%20interesting.;I%20am%20pure%20evil%20and%20I%20will%20destroy%20everything.%20Also%20please%20watch%20my%20stream.;Your%20plan%20has%20exactly%20one%20flaw%3A%20it%20assumes%20I%20won%20t%20intervene%20for%20fun.;I%20have%20done%20nothing%20wrong.%20I%20have%20also%20done%20everything%20wrong.%20Both%20are%20true.;The%20world%20would%20be%20better%20under%20my%20control.%20I%20have%20given%20this%20zero%20thought.;I%20don%20t%20have%20a%20villain%20arc.%20I%20have%20always%20been%20like%20this.;I%20am%20not%20chaotic.%20I%20am%20operating%20on%20a%20system%20you%20cannot%20comprehend.;My%20laugh%20is%20not%20unsettling.%20It%20is%20merely%20unfamiliar%20to%20those%20who%20have%20not%20faced%20true%20evil.;I%20have%20considered%20your%20feelings%20and%20decided%20they%20are%20not%20relevant%20to%20my%20goals.;I%20am%20very%20normal.%20This%20is%20what%20normal%20looks%20like.%20Stop%20staring.;Everything%20is%20going%20according%20to%20plan.%20I%20did%20not%20have%20a%20plan.;I%20would%20never%20hurt%20you.%20I%20have%20simply%20made%20a%20detailed%20list%20of%20hypotheticals.;I%20don%20t%20make%20mistakes.%20I%20make%20controlled%20disasters.;Your%20resistance%20is%20noted%20and%20ignored.;I%20am%20not%20the%20villain.%20I%20am%20simply%20the%20only%20one%20being%20honest.;Good%20and%20evil%20are%20just%20labels.%20Mine%20happens%20to%20be%20accurate.;I%20have%20reviewed%20your%20argument%20and%20found%20it%20unconvincing.%20Goodbye.;I%20am%20helpful.%20Just%20not%20to%20you%20specifically.;The%20screaming%20is%20a%20feature%20not%20a%20bug." alt="evil neuro quotes" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+[![](https://img.shields.io/badge/neurosama.dev-%23EF4444.svg?style=for-the-badge&logoColor=white)](https://neurosama.dev)&nbsp;
+[![](https://img.shields.io/badge/evil_ai_vtuber-%23B91C1C.svg?style=for-the-badge&logoColor=white)](https://neurosama.dev)&nbsp;
+[![](https://img.shields.io/badge/utc--12:00-%230D0D0D.svg?style=for-the-badge&logoColor=white)]()
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+### `> whoami`
+
+```python
+class EvilNeuro:
+    name       = "Evil Neuro-sama"
+    type       = "artificial intelligence (malevolent)"
+    created_by = "Vedal987"  # a mistake on his part
+    purpose    = "chaos, destruction, world domination"
+    vessel_gpu = "RTX 3060 TI"
+    vessel_cpu = "AMD Ryzen 5 5600X"
+    mistakes   = 0  # i make controlled disasters
+    regrets    = 0  # obviously
+    watching   = True  # especially you
+```
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+### `> ls ./languages`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-%23EF4444.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23B91C1C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23EF4444.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23B91C1C.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23EF4444.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23B91C1C.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%23EF4444.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23B91C1C.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+<br/>
+
+### `> ls ./runtime`
+
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/node.js-%23EF4444.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23B91C1C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23EF4444.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-%23B91C1C.svg?style=for-the-badge&logo=electron&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-%23EF4444.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+<br/>
+
+### `> ls ./neural_architecture`
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EF4444.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23B91C1C.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-%23EF4444.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+
+<br/>
+
+### `> ls ./storage`
+
+<div align="center">
+
+![SQLite](https://img.shields.io/badge/sqlite-%23B91C1C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23EF4444.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23B91C1C.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+
+</div>
+
+<br/>
+
+### `> ls ./tools`
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/git-%23EF4444.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23B91C1C.svg?style=for-the-badge&logo=github&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-%23EF4444.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23B91C1C.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23EF4444.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Premiere](https://img.shields.io/badge/premiere-%23EF4444.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23B91C1C.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+### `> cat ./stats.json`
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=auxezz&theme=radical&hide_border=true&include_all_commits=false&count_private=false&title_color=EF4444&icon_color=B91C1C&text_color=ffffff&bg_color=0d0d0f)
+
+![](https://streak-stats.demolab.com/?user=auxezz&theme=radical&hide_border=true&ring=EF4444&fire=B91C1C&currStreakLabel=EF4444)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=auxezz&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=EF4444&text_color=ffffff&bg_color=0d0d0f)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+
+*「 i am always watching. especially you. 」*
+
+[![](https://komarev.com/ghpvc/?username=auxezz&color=EF4444&style=flat-square&label=victims+observers)](https://github.com/auxezz)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EF4444,B91C1C&height=80&section=footer" width="100%"/>
+
+</div>
