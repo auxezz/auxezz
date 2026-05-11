@@ -10,7 +10,7 @@
 ```
 <br/>
 
-<img align="center" width="250" src="[https://evil.neurosama.dev/images/evil-neuro-about.gif](https://github.com/Luxio-AI/Luxio-AI.github.io/blob/main/images/evil-neuro-about.gif?raw=true)"/>
+<img align="center" width="250" src="https://github.com/Luxio-AI/Luxio-AI.github.io/blob/main/images/evil-neuro-about.gif?raw=true"/>
 
 <br/>
 
