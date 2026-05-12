@@ -20,7 +20,7 @@
 
 [![](https://img.shields.io/badge/neurosama.dev-%23EF4444.svg?style=for-the-badge&logoColor=white)](https://neurosama.dev)&nbsp;
 [![](https://img.shields.io/badge/evil_ai_vtuber-%23B91C1C.svg?style=for-the-badge&logoColor=white)](https://neurosama.ai)&nbsp;
-[![](https://img.shields.io/badge/utc-+1:00-%230D0D0D.svg?style=for-the-badge&logoColor=white)](https://everytimezone.com/)
+[![](https://img.shields.io/badge/utc+1:00-%230D0D0D.svg?style=for-the-badge&logoColor=white)](https://everytimezone.com/)
 
 </div>
 
